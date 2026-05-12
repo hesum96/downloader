@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `Ada_-_Black_Ops-1.1.rar` |
-| **Size** | .16 MB |
+| **Size** | .15 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
